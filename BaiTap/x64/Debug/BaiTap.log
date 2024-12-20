@@ -1,0 +1,12 @@
+﻿  caidat_baitap.cpp
+C:\Users\pro01\OneDrive\Desktop\Lam\C++\BaiTap\BaiTap\caidat_baitap.cpp(38,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\pro01\OneDrive\Desktop\Lam\C++\BaiTap\BaiTap\caidat_baitap.cpp(45,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\pro01\OneDrive\Desktop\Lam\C++\BaiTap\BaiTap\caidat_baitap.cpp(52,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\pro01\OneDrive\Desktop\Lam\C++\BaiTap\BaiTap\caidat_baitap.cpp(59,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\pro01\OneDrive\Desktop\Lam\C++\BaiTap\BaiTap\caidat_baitap.cpp(66,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\pro01\OneDrive\Desktop\Lam\C++\BaiTap\BaiTap\caidat_baitap.cpp(73,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\pro01\OneDrive\Desktop\Lam\C++\BaiTap\BaiTap\caidat_baitap.cpp(261,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  ctc_baitap.cpp
+C:\Users\pro01\OneDrive\Desktop\Lam\C++\BaiTap\BaiTap\ctc_baitap.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  BaiTap.vcxproj -> C:\Users\pro01\OneDrive\Desktop\Lam\C++\BaiTap\x64\Debug\BaiTap.exe
